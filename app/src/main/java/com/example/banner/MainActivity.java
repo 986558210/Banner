@@ -23,6 +23,5 @@ public class MainActivity extends AppCompatActivity {
         mImages.add("http://fdfs.xmcdn.com/group27/M09/CD/9D/wKgJR1kH5j3wIeceAAJme6hHjsg639_android_large.jpg");
         mImages.add("http://fdfs.xmcdn.com/group23/M05/B6/BA/wKgJNFiAc7Hhvbl1AAW3aA1GUqU096_android_large.jpg");
         mBanner.setImageList(mImages, null);
-
     }
 }
